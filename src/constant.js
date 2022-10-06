@@ -1,4 +1,4 @@
-export const BASE_URL = 'http://demo2211087.mockable.io/'
+export const BASE_URL = 'https://demo2211087.mockable.io/'
 
 export const ENDPOINT = {
     
