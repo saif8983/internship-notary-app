@@ -1,0 +1,1 @@
+# internship-notary-app
